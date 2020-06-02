@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63832f59-848e-4fc0-a8e3-65064cef19d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cgByNKWyHqw5DXe2BfXrkhpEWI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/free_cloud_order/src/main/java/org/cloud/face" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.cloud.face.enums" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LIUINX\IdeaProjects\free_cloud_demo\free_cloud_common\src\main\java\org\cloud\face" />
+      <recent name="C:\Users\LIUINX\IdeaProjects\free_cloud_demo\free_cloud_order\src\main\resources" />
+      <recent name="C:\Users\LIUINX\IdeaProjects\free_cloud_demo\free_cloud_auth\src\main\resources" />
+      <recent name="C:\Users\LIUINX\IdeaProjects\free_cloud_demo\fre_cloud_nacos\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FreeOrderCloudApplication">
+    <configuration name="FreeAuthCloudApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cloud.face.FreeAuthCloudApplication" />
+      <module name="free_cloud_auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cloud.face.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreeAuthCloudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="free_cloud_auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cloud.face.FreeAuthCloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreeNacosCloudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="fre_cloud_nacos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cloud.face.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cloud.face.FreeNacosCloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreeOrderCloudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="free_cloud_order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cloud.face.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cloud.face.FreeOrderCloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.FreeOrderCloudApplication" />
+        <item itemvalue="Application.FreeAuthCloudApplication" />
+        <item itemvalue="Spring Boot.FreeNacosCloudApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63832f59-848e-4fc0-a8e3-65064cef19d7" name="Default Changelist" comment="" />
+      <created>1590940609466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590940609466</updated>
+      <workItem from="1590940612617" duration="1470000" />
+      <workItem from="1590942139105" duration="537000" />
+      <workItem from="1591017043477" duration="3146000" />
+      <workItem from="1591027205123" duration="3895000" />
+      <workItem from="1591097528678" duration="7635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590941446931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590941446931" />
+    <state x="592" y="346" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1591112792499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="346" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591112792499" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590941268591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590941268591" />
+    <state width="1877" height="435" key="GridCell.Tab.0.bottom" timestamp="1591115306100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591115306100" />
+    <state width="1877" height="435" key="GridCell.Tab.0.center" timestamp="1591115306100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591115306100" />
+    <state width="1877" height="435" key="GridCell.Tab.0.left" timestamp="1591115306100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591115306100" />
+    <state width="1877" height="435" key="GridCell.Tab.0.right" timestamp="1591115306100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591115306100" />
+    <state width="1877" height="435" key="GridCell.Tab.1.bottom" timestamp="1591115306100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591115306100" />
+    <state width="1877" height="435" key="GridCell.Tab.1.center" timestamp="1591115306100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591115306100" />
+    <state width="1877" height="435" key="GridCell.Tab.1.left" timestamp="1591115306100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591115306100" />
+    <state width="1877" height="435" key="GridCell.Tab.1.right" timestamp="1591115306100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591115306100" />
+    <state x="342" y="166" key="SettingsEditor" timestamp="1591112793648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="166" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591112793648" />
+    <state x="759" y="297" key="chooseDestDirectoryDialog" timestamp="1591110656347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="297" key="chooseDestDirectoryDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591110656347" />
+    <state x="334" y="214" key="new project wizard" timestamp="1591112102479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="214" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591112102479" />
+  </component>
+</project>
