@@ -9,4 +9,14 @@
         FROM
             order_master
     </select>
+
+    <select id="selectOrderDetails" parameterType="java.lang.Integer" resultType="org.cloud.face.entity.Order">
+        SELECT
+            order_id orderId,
+            order_code orderCode
+        FROM
+            order_master
+        WHERE
+            order_id = #{orderId}
+    </select>
 </mapper>

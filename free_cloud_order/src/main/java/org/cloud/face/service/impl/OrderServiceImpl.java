@@ -22,6 +22,11 @@ public class OrderServiceImpl implements OrderService {
 
     @Override
     public List<Order> queryOrder() {
-        return orderMapper.selectOrder();
+        return this.orderMapper.selectOrder();
+    }
+
+    @Override
+    public Order queryOrderDetails(Integer orderId) {
+        return this.orderMapper.selectOrderDetails(orderId);
     }
 }

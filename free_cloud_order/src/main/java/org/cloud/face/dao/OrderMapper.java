@@ -13,4 +13,6 @@ import java.util.List;
 public interface OrderMapper {
 
     List<Order> selectOrder();
+
+    Order selectOrderDetails(Integer orderId);
 }

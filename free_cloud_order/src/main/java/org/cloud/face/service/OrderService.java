@@ -13,4 +13,6 @@ import java.util.List;
 public interface OrderService {
 
     List<Order> queryOrder();
+
+    Order queryOrderDetails(Integer orderId);
 }
